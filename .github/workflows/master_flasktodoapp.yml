@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FlaskTodoApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19509193831C42ED86DD0B2627CFD50D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2FC41E18907431FB9666B756741AD00 }}
